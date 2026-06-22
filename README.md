@@ -40,4 +40,3 @@ And one project that takes a different shape:
 
 - LinkedIn — [Nikita Zotov](https://www.linkedin.com/in/nikita-zotov-64a98613a)
 - Upwork - [Nikita Zotov](https://www.upwork.com/freelancers/~01bf31a95981a5b512)
-- NoiR Code — [noir-code.suncake.xyz](https://noir-code.suncake.xyz)
