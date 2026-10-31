@@ -14,10 +14,11 @@ I design and maintain an open-source ecosystem for running Go services:
 - **[samsara-components](https://github.com/sunkek/samsara-components)** — production-ready infrastructure components for samsara: Fiber, gRPC, PostgreSQL, Redis, RabbitMQ, and S3, each following one consistent lifecycle pattern.
 - **[mishap](https://github.com/sunkek/mishap)** — a small, explicit typed error-code package for Go, with zero external dependencies.
 
-And two projects that take a different shape:
+And three projects that take a different shape:
 
 - **[Vitae Viscera](https://vitae-viscera.suncake.xyz)** — an asynchronous biopunk colony sim, and where samsara runs in production. You grow a living flesh-ecosystem: feed it, spawn creature-drones, send them on missions, and mutate what comes back. A Go backend — a domain per feature, argon2id passwords with rotating refresh tokens, and an event log stored as a recipe and rendered in the reader's own language — behind a React SPA on PostgreSQL. A solo project, currently in closed alpha: the source is private, but it is live and playable by invite at [vitae-viscera.suncake.xyz](https://vitae-viscera.suncake.xyz).
-- **[NoiR-Code](https://github.com/sunkek/noir-code)** — a QR-like code rendered as a hand-inked noir art piece. It encodes text into a halftone cityscape and reads it back from a photo, using grayscale tonal channels and Reed–Solomon error correction. Go gateway, Python computer-vision sidecar, React frontend. Live at [noir-code.suncake.xyz](https://noir-code.suncake.xyz).
+- **[NoiR-Code](https://noir-code.suncake.xyz)** — a QR-like code rendered as a hand-inked noir art piece. It encodes text into a halftone cityscape and reads it back from a photo, using grayscale tonal channels and Reed–Solomon error correction. Go gateway, Python computer-vision sidecar, React frontend. [Source on GitHub](https://github.com/sunkek/noir-code).
+- **[WhileYouWait](https://whileyouwait.suncake.xyz)** — small daily puzzle games for any wait: the build, the commute, the queue. Seeded generators, no backend, no cookies, playable offline. [Source on GitHub](https://github.com/sunkek/whileyouwait).
 
 ---
 
